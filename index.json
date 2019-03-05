@@ -3,13 +3,13 @@
     "packages": [
         {
             "name": "LiteLoader",
-            "sha256": "7e3ca972a2898dc311b827c8b73d8b5274807395bdd199b61a236d83a64dc2f7",
+            "sha256": "a69e00225a3700cfa81c8def8d5e546773f5c3f5a2bbcdbdcda346832f44bfd5",
             "uid": "com.mumfrey.liteloader"
         },
         {
-            "name": "LWJGL 3",
-            "sha256": "4df18f25f679ea86f3b66e8710c2b9c3f60775c0d06d1828be105ec4e7e8adf6",
-            "uid": "org.lwjgl3"
+            "name": "Minecraft",
+            "sha256": "9655fde55c6e25df49dcf7d277ec793cba25398e6ba91955ced55f3cf5e1b2b3",
+            "uid": "net.minecraft"
         },
         {
             "name": "Forge",
@@ -17,14 +17,14 @@
             "uid": "net.minecraftforge"
         },
         {
-            "name": "Minecraft",
-            "sha256": "b93a564a4741e79b8e59942d8d4eafab91f91128d2900de357fd7dc8f4fa792b",
-            "uid": "net.minecraft"
-        },
-        {
             "name": "LWJGL 2",
             "sha256": "7138d68afc187eeae79b7fece63b9959fcd8bc35c2610da1f4cd545b9c35eeca",
             "uid": "org.lwjgl"
+        },
+        {
+            "name": "LWJGL 3",
+            "sha256": "4df18f25f679ea86f3b66e8710c2b9c3f60775c0d06d1828be105ec4e7e8adf6",
+            "uid": "org.lwjgl3"
         }
     ]
 }

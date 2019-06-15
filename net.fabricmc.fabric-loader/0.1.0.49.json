@@ -41,7 +41,11 @@
     "name": "Fabric Loader",
     "order": 10,
     "releaseTime": "2018-11-30T21:31:40+00:00",
-    "requires": [],
+    "requires": [
+        {
+            "uid": "net.fabricmc.intermediary"
+        }
+    ],
     "type": "release",
     "uid": "net.fabricmc.fabric-loader",
     "version": "0.1.0.49"
